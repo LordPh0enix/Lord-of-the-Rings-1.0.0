@@ -104,7 +104,7 @@
     "TradeAmountEquipment": 5,
     "AIRequestDelay": 0,
     "MinimumGoodsRequiredAfterTrade": 0,
-    "DoubleRationsFoodThreshold": 70,
+    "DoubleRationsFoodThreshold": 130,
     "MaxWood": 100,
     "MaxStone": 70,
     "MaxResourceOther": 10,
