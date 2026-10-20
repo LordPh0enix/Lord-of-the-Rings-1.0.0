@@ -1,29 +1,67 @@
- {
+{
   "lord": {
-    "StrengthMultiplier": 5.0,
-    "DotCount": 2,
+    "StrengthMultiplier": 5,
     "DotColour": "Black",
+    "DotCount": 2,
     "Type": "Europ"
   },
   "startTroops": {
     "normal": {
       "ArabArcher": 8,
+      "Slave": 0,
+      "Slinger": 0,
+      "Assassin": 0,
+      "HorseArcher": 0,
+      "ArabSwordsman": 0,
+      "FireThrower": 0,
       "EuropArcher": 7,
-      "Maceman": 10
+      "Spearman": 0,
+      "Maceman": 10,
+      "Crossbowman": 0,
+      "Pikeman": 0,
+      "Swordsman": 0,
+      "Knight": 0,
+      "Monk": 0,
+      "Engineer": 0
     },
     "crusader": {
-      "Spearman": 20,
+      "ArabArcher": 0,
+      "Slave": 0,
+      "Slinger": 0,
+      "Assassin": 0,
+      "HorseArcher": 0,
+      "ArabSwordsman": 0,
+      "FireThrower": 0,
       "EuropArcher": 10,
-      "Maceman": 20
+      "Spearman": 20,
+      "Maceman": 20,
+      "Crossbowman": 0,
+      "Pikeman": 0,
+      "Swordsman": 0,
+      "Knight": 0,
+      "Monk": 0,
+      "Engineer": 0
     },
     "deathmatch": {
       "ArabArcher": 5,
+      "Slave": 0,
+      "Slinger": 0,
+      "Assassin": 0,
+      "HorseArcher": 0,
+      "ArabSwordsman": 0,
+      "FireThrower": 0,
       "EuropArcher": 5,
-      "Maceman": 5
+      "Spearman": 0,
+      "Maceman": 5,
+      "Crossbowman": 0,
+      "Pikeman": 0,
+      "Swordsman": 0,
+      "Knight": 0,
+      "Monk": 0,
+      "Engineer": 0
     }
   },
   "aic": {
-    
     "WallDecoration": 26,
     "Unknown001": 0,
     "Unknown002": 0,
@@ -66,7 +104,7 @@
     "TradeAmountEquipment": 4,
     "AIRequestDelay": 0,
     "MinimumGoodsRequiredAfterTrade": 0,
-    "DoubleRationsFoodThreshold": 160,
+    "DoubleRationsFoodThreshold": 110,
     "MaxWood": 100,
     "MaxStone": 60,
     "MaxResourceOther": 15,
@@ -149,7 +187,7 @@
     "HarassingSiegeEngine8": "None",
     "HarassingSiegeEnginesMax": 0,
     "RaidRetargetDelay": 14,
-    "AttForceBase":200,
+    "AttForceBase": 200,
     "AttForceRandom": 0,
     "AttForceSupportAllyThreshold": 0,
     "AttForceRallyPercentage": 95,
@@ -170,8 +208,8 @@
     "AttMaxEngineers": 26,
     "AttDiggingUnit": "Pikeman",
     "AttDiggingUnitMax": 30,
-	  "AttUnitVanguard": "Spearman",
-	  "AttUnitVanguardMax": 150,
+    "AttUnitVanguard": "Spearman",
+    "AttUnitVanguardMax": 150,
     "AttMaxAssassins": 0,
     "AttMaxLaddermen": 0,
     "AttMaxTunnelers": 10,
@@ -193,17 +231,16 @@
     "AttMaxDefault": 100,
     "AttMainGroupsCount": 1,
     "TargetChoice": "Any",
-    
-	"AIOxTethers_DisableInitialOxTether": 1,
-	"AIOxTethers_Logic": 1,
-	"AIOxTethers_MaxOxTethers": 18,
-	"AIOxTethers_DynamicMaxOxTethers": 5,
-	"AIOxTethers_MinimumOxTethersPerQuarry": 3,
-	"AIOxTethers_MaximumOxTethersPerQuarry": 5,
-	"AIOxTethers_ThresholdStoneLoad": 6,
-	"RunningUnits_Macemen": 1,
-	"RunningUnits_Slingers": 1,
-	"RunningUnits_Slaves": 1,
-	"RunningUnits_Spearmen": 1
+    "AIOxTethers_DisableInitialOxTether": 1,
+    "AIOxTethers_Logic": 1,
+    "AIOxTethers_MaxOxTethers": 18,
+    "AIOxTethers_DynamicMaxOxTethers": 5,
+    "AIOxTethers_MinimumOxTethersPerQuarry": 3,
+    "AIOxTethers_MaximumOxTethersPerQuarry": 5,
+    "AIOxTethers_ThresholdStoneLoad": 6,
+    "RunningUnits_Macemen": 1,
+    "RunningUnits_Spearmen": 1,
+    "RunningUnits_Slingers": 1,
+    "RunningUnits_Slaves": 1
   }
 }

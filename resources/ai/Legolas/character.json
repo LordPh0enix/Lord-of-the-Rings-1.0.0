@@ -94,7 +94,7 @@
     "MaxFarms": 20,
     "BuildInterval": 1,
     "ResourceRebuildDelay": 2,
-    "MaxFood": 80,
+    "MaxFood": 120,
     "MinimumApples": 5,
     "MinimumCheese": -1,
     "MinimumBread": -1,
