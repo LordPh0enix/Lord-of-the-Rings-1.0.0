@@ -99,7 +99,7 @@
     "MinimumCheese": 4,
     "MinimumBread": 0,
     "MinimumWheat": 0,
-    "MinimumHop": 2,
+    "MinimumHop": 4,
     "TradeAmountFood": 2,
     "TradeAmountEquipment": 4,
     "AIRequestDelay": 0,
