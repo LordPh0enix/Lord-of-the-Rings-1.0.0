@@ -228,7 +228,7 @@
     "AttUnitMain2": "Pikeman",
     "AttUnitMain3": "Maceman",
     "AttUnitMain4": "Swordsman",
-    "AttMaxDefault": 20,
+    "AttMaxDefault": 80,
     "AttMainGroupsCount": 1,
     "TargetChoice": "Balanced",
     "AIOxTethers_DisableInitialOxTether": 1,
