@@ -1,7 +1,7 @@
 {
   "taunt_1"      : "jubel.bik",
   "taunt_2"      : "taunt.bik",
-  "taunt_3"      : "noch festzulegen -merged.bik",
+  "taunt_3"      : "victory.bik",
   "taunt_4"      : "taunt angry.bik",
   "anger_1"      : "jubel.bik",
   "anger_2"      : "taunt angry.bik",
@@ -11,7 +11,7 @@
   "victory_1"    : "jubel.bik",
   "victory_2"    : "victorious.bik",
   "victory_3"    : "The win.bik",
-  "victory_4"    : "noch festzulegen -merged.bik",
+  "victory_4"    : "victory.bik",
   "request"      : "will attack -- help send.bik",
   "thanks"       : "will attack -- help send.bik",
   "ally_death"   : "plead.bik",
