@@ -147,7 +147,7 @@
     "RecruitProbAttackStrong": 100,
     "SortieUnitRangedMin": 5,
     "SortieUnitRanged": "EuropArcher",
-    "SortieUnitMeleeMin": 10,
+    "SortieUnitMeleeMin": 7,
     "SortieUnitMelee": "Pikeman",
     "DefDiggingUnitMax": 10,
     "DefDiggingUnit": "EuropArcher",
